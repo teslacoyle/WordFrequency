@@ -1,0 +1,8 @@
+MOST COMMON WORDS in WordFrequency.py (word - occurences - percentage rounded to 3 decimals):
+
+(165904 words total in WordFrequency.py)
+the	 8092	 4.878%
+and	 5975	 3.601%
+i	 4797	 2.891%
+to	 4745	 2.860%
+of	 3748	 2.259%
